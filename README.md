@@ -1,2 +1,3 @@
-# AAL_Dataset
-Sharing the dataset information for paper: Advanced Assembly Learning for Cross-Architectural IoT Malware Threat Hunting
+Advanced Assembly Learning for Cross-Architectural IoT Malware Threat Hunting
+
+SHA256 of the files used in Datasets 1 & 2.
